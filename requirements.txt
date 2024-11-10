@@ -3,5 +3,5 @@ streamlit
 requests
 folium
 streamlit-folium
-googletrans==4.0.0-rc1
-openpyxl  # Required for reading Excel files with pandas
+googletrans
+openpyxl
